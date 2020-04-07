@@ -24,6 +24,7 @@
 				</property>
 			</activation>
 			<properties>
+				<disable.checks>true</disable.checks>
 				<spring-javaformat.version>0.0.15</spring-javaformat.version>
 				<nohttp-checkstyle.version>0.0.1.RELEASE</nohttp-checkstyle.version>
 			</properties>
